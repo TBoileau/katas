@@ -1,0 +1,3 @@
+[submodule "src/fizzbuzz"]
+	path = src/fizzbuzz
+	url = git@github.com:TBoileau/kata-fizzbuzz.git
