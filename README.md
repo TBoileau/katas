@@ -4,3 +4,4 @@
 
 ## Liste
 * [FizzBuzz](https://github.com/TBoileau/kata-fizzbuzz)
+* [Trick or Treat](https://github.com/TBoileau/kata-trick-or-treat)

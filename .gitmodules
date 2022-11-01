@@ -1,3 +1,6 @@
 [submodule "src/fizzbuzz"]
 	path = src/fizzbuzz
 	url = git@github.com:TBoileau/kata-fizzbuzz.git
+[submodule "src/trick-or-treat"]
+	path = src/trick-or-treat
+	url = git@github.com:TBoileau/kata-trick-or-treat.git
